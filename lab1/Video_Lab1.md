@@ -1,4 +1,4 @@
-- Bài 1: []
+- Bài 1: [https://youtu.be/RTaeeh5vqag]
 - Bài 2: []
 - Bài 3: []
 - Bài 4: []
