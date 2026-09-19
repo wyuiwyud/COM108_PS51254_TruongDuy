@@ -1,4 +1,4 @@
 - Bài 1: [https://youtu.be/RTaeeh5vqag]
-- Bài 2: []
-- Bài 3: []
-- Bài 4: []
+- Bài 2: [https://www.youtube.com/watch?v=Taeeh5vqag]
+- Bài 3: [https://www.youtube.com/watch?v=RTaefu45vqag]
+- Bài 4: [u45https://www.youtube.com/watch?v=RTayyh5vqag]
