@@ -1,16 +1,15 @@
 #include <stdio.h>
-int main() {
+int main(){
   int namSinh;
   float diemTB;
-
-  printf("Nham nam sinh: ");
+  printf("Nhap nam sinh:");
   scanf("%d", &namSinh);
-  printf("Nhap Diem");
+
+  printf("Nhap diem:");
   scanf("%f", &diemTB);
   //Xuat
-  printf("Nam sinh: %d\n", namSinh);
-  printf("Tuoi: %d\n", 2026 - namSinh);
-  printf("Diem TB: %f\n", diemTB);
-
+  printf("Nam Sinh: %d\n",namSinh);
+  printf("Tuoi: %d\n",2026 - namSinh );
+  printf("DiemTB: %f\n",diemTB);
   return 0;
 }
